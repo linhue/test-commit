@@ -1,3 +1,6 @@
 <?php
 
-$a = array('aa'=>array(),'c'=>array(array()));
+$a = array(
+'aa' => array(),
+'c' => array(
+array(), ), );

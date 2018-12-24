@@ -1,6 +1,6 @@
 <?php
 
 $a = array(
-'aa1' => array(),
+'aa112321' => array(),
 'c' => array(
-array(), ), );die;
+array(), ), );die;;
